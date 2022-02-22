@@ -1,0 +1,9 @@
+C:\Users\84534\Desktop\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\84534\Desktop\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\84534\Desktop\Server\bin\Debug\Server.exe.config
+C:\Users\84534\Desktop\Server\bin\Debug\Server.exe
+C:\Users\84534\Desktop\Server\bin\Debug\Server.pdb
+C:\Users\84534\Desktop\Server\obj\Debug\Server.MAIN.resources
+C:\Users\84534\Desktop\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\84534\Desktop\Server\obj\Debug\Server.exe
+C:\Users\84534\Desktop\Server\obj\Debug\Server.pdb

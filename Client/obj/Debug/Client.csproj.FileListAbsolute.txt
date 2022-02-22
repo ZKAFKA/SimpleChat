@@ -1,0 +1,10 @@
+C:\Users\84534\Desktop\Client\bin\Debug\Client.exe.config
+C:\Users\84534\Desktop\Client\bin\Debug\Client.exe
+C:\Users\84534\Desktop\Client\bin\Debug\Client.pdb
+C:\Users\84534\Desktop\Client\obj\Debug\Client.Form1.resources
+C:\Users\84534\Desktop\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\84534\Desktop\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\84534\Desktop\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\84534\Desktop\Client\obj\Debug\Client.exe
+C:\Users\84534\Desktop\Client\obj\Debug\Client.pdb
+C:\Users\84534\Desktop\Client\obj\Debug\Client.csproj.AssemblyReference.cache
